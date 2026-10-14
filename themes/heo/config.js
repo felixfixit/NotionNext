@@ -73,6 +73,8 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://www.felixmicrospace.top',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_ICON_ORCID: 'fab fa-orcid',
+  HEO_INFO_CARD_ICON_CSDN: 'fab fa-csdn',
+  HEO_INFO_CARD_ICON_JUEJIN: 'fab fa-juejin',
   HEO_INFO_CARD_URL3: 'https://www.felixmicrospace.top',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
